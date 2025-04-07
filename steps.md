@@ -12,9 +12,6 @@ Bon appétit !
 
 trying to solve the conflict
 
-
-
-Bon appétit !
-
 Creating new conflict
 
+2 conflict text git hub
