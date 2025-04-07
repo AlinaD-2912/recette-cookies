@@ -10,3 +10,6 @@
 Bon appétit !
 
 2 conflict terminal
+
+2 conflict text git hub
+
